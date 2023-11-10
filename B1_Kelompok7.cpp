@@ -3310,7 +3310,6 @@ int main()
                             printColoredText("|  Menu Tambah Kendaraan  |\n", YELLOW_TEXT);
                             printColoredText("===========================\n", YELLOW_TEXT);
                             addSpesifick(&kendaraanhead, &kendaraantail, username, nextIDk, filename5);
-                            printColoredText("-------- Kendaraan Berhasil Ditambah -----", GREEN_TEXT);
                             break;
                         case 4:
                             // Tambah Pakan
